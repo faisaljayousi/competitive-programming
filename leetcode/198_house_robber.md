@@ -1,4 +1,4 @@
-# 🧩 Problem: House Robber
+# 🧩 Problem: 198 - House Robber
 
 **Platform**: LeetCode \
 **Link**: [Problem Link](https://leetcode.com/problems/house-robber/description/) \

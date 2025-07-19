@@ -1,0 +1,27 @@
+{
+  "platform": {
+    "LeetCode": 2,
+    "Codeforces": 5
+  },
+  "difficulty": {
+    "Easy": 1,
+    "Medium": 1,
+    "800": 5
+  },
+  "language": {
+    "Python": 2,
+    "C++": 7
+  },
+  "tags": {
+    "`hashmap`": 1,
+    "`sorting`": 1,
+    "`string`": 1,
+    "`dp`": 2,
+    "`brute force`": 2,
+    "`math`": 2,
+    "`greedy`": 3,
+    "`implementation`": 1
+  },
+  "ratings": {},
+  "total": 7
+}

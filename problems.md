@@ -2,11 +2,11 @@
 
 | # | Problem | Platform | Difficulty | Tags | Python | C++ | Notes |
 |----|---------|----------|------------|------|--------|-----|-------|
-| 1 | [242 - Valid Anagram](https://leetcode.com/problems/valid-anagram/) | LeetCode | Easy | ``hashmap``, ``sorting``, ``string`` | [💻](./leetcode/242_valid_anagram.py) | [💻](./leetcode/242_valid_anagram.cpp) | [📝](./leetcode/242_valid_anagram.md) |
-| 2 | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Codeforces | 800 | ``implementation`` | – | [💻](./codeforces/beautiful_matrix.cpp) | [📝](./codeforces/beautiful_matrix.md) |
-| 3 | [Domino Piling](https://codeforces.com/problemset/problem/50/A) | Codeforces | 800 | ``greedy``, ``math`` | – | [💻](./codeforces/domino_piling.cpp) | [📝](./codeforces/domino_piling.md) |
-| 4 | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | Codeforces | 800 | ``greedy``, ``dp`` | – | [💻](./codeforces/hit_lottery.cpp) | [📝](./codeforces/hit_lottery.md) |
-| 5 | [House Robber](https://leetcode.com/problems/house-robber/description/) | LeetCode | Medium | ``dp`` | [💻](./leetcode/198_house_robber.py) | [💻](./leetcode/198_house_robber.cpp) | [📝](./leetcode/198_house_robber.md) |
+| 1 | [198 - House Robber](https://leetcode.com/problems/house-robber/description/) | LeetCode | Medium | ``dp`` | [💻](./leetcode/198_house_robber.py) | [💻](./leetcode/198_house_robber.cpp) | [📝](./leetcode/198_house_robber.md) |
+| 2 | [242 - Valid Anagram](https://leetcode.com/problems/valid-anagram/) | LeetCode | Easy | ``hashmap``, ``sorting``, ``string`` | [💻](./leetcode/242_valid_anagram.py) | [💻](./leetcode/242_valid_anagram.cpp) | [📝](./leetcode/242_valid_anagram.md) |
+| 3 | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Codeforces | 800 | ``implementation`` | – | [💻](./codeforces/beautiful_matrix.cpp) | [📝](./codeforces/beautiful_matrix.md) |
+| 4 | [Domino Piling](https://codeforces.com/problemset/problem/50/A) | Codeforces | 800 | ``greedy``, ``math`` | – | [💻](./codeforces/domino_piling.cpp) | [📝](./codeforces/domino_piling.md) |
+| 5 | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | Codeforces | 800 | ``greedy``, ``dp`` | – | [💻](./codeforces/hit_lottery.cpp) | [📝](./codeforces/hit_lottery.md) |
 | 6 | [Team](https://codeforces.com/problemset/problem/231/A) | Codeforces | 800 | ``brute force``, ``greedy`` | – | [💻](./codeforces/team.cpp) | [📝](./codeforces/team.md) |
 | 7 | [Watermelon](https://codeforces.com/problemset/problem/4/A) | Codeforces | 800 | ``brute force``, ``math`` | – | [💻](./codeforces/watermelon.cpp) | [📝](./codeforces/watermelon.md) |
 

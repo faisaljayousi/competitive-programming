@@ -116,5 +116,5 @@ stats = {
     "total": len(rows),
 }
 
-# with open("progress.json", "w", encoding="utf-8") as jf:
-#     json.dump(stats, jf, indent=2)
+with open("progress.json", "w", encoding="utf-8") as jf:
+    json.dump(stats, jf, indent=2)
