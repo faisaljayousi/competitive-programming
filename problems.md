@@ -8,33 +8,34 @@
 | 4 | [Domino Piling](https://codeforces.com/problemset/problem/50/A) | Codeforces | 800 | ``greedy``, ``math`` | – | [💻](./codeforces/domino_piling.cpp) | [📝](./codeforces/domino_piling.md) |
 | 5 | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | Codeforces | 800 | ``greedy``, ``dp`` | – | [💻](./codeforces/hit_lottery.cpp) | [📝](./codeforces/hit_lottery.md) |
 | 6 | [Team](https://codeforces.com/problemset/problem/231/A) | Codeforces | 800 | ``brute force``, ``greedy`` | – | [💻](./codeforces/team.cpp) | [📝](./codeforces/team.md) |
-| 7 | [Watermelon](https://codeforces.com/problemset/problem/4/A) | Codeforces | 800 | ``brute force``, ``math`` | – | [💻](./codeforces/watermelon.cpp) | [📝](./codeforces/watermelon.md) |
+| 7 | [Vanya and Cubes](https://codeforces.com/problemset/problem/492/A) | Codeforces | 800 | ``implementation`` | – | [💻](./codeforces/vanya_cubes.cpp) | [📝](./codeforces/vanya_cubes.md) |
+| 8 | [Watermelon](https://codeforces.com/problemset/problem/4/A) | Codeforces | 800 | ``brute force``, ``math`` | – | [💻](./codeforces/watermelon.cpp) | [📝](./codeforces/watermelon.md) |
 
 ---
 
 ## 📊 Summary Statistics
 
-**Total problems solved**: 7
+**Total problems solved**: 8
 
 ### By Platform:
 - LeetCode: 2
-- Codeforces: 5
+- Codeforces: 6
 
 ### By Difficulty:
 - Easy: 1
 - Medium: 1
-- 800: 5
+- 800: 6
 
 ### By Language:
 - Python: 2
-- C++: 7
+- C++: 8
 
 ### By Tag:
 - ``greedy``: 3
 - ``dp``: 2
 - ``brute force``: 2
 - ``math``: 2
+- ``implementation``: 2
 - ``hashmap``: 1
 - ``sorting``: 1
 - ``string``: 1
-- ``implementation``: 1

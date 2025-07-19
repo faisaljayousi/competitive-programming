@@ -1,6 +1,7 @@
-![Problems Solved](https://img.shields.io/badge/Solved-7-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-8-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/faisaljayousi/competitive-programming)
 ![Language](https://img.shields.io/badge/Top_Language-C++-informational)
+
 
 
 # Competitive Programming Journey
