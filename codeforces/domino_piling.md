@@ -1,8 +1,8 @@
 # 🧩 Problem: Domino Piling
 
-**Platform**: Codeforces
-**Link**: [Problem Link](https://codeforces.com/problemset/problem/50/A)
-**Difficulty**: 800
+**Platform**: Codeforces \
+**Link**: [Problem Link](https://codeforces.com/problemset/problem/50/A) \
+**Difficulty**: 800 \
 **Tags**: `greedy`, `math`
 
 ---
