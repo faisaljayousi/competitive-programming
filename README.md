@@ -3,17 +3,11 @@
 ![Language](https://img.shields.io/badge/Top_Language-C++-informational)
 
 
-
 # Competitive Programming Journey
 
 This repo tracks my progress in competitive programming and data structures & algorithms (DSA). I'm using it to build speed and accuracy through consistent problem-solving.
 
-Keeping it public helps me stay motivated and track progress over time.
-
-## 📚 Contents
-
-- 🧩 [Problems Table](./problems.md)
-- 📅 [Roadmap](./ROADMAP.md)
+Keeping it public helps me stay motivated and track progress over time. A full list of solved problems can be found [here](./problems.md).
 
 ## 🗺️ Roadmap
 
@@ -29,7 +23,11 @@ Keeping it public helps me stay motivated and track progress over time.
 - [ ] Build a pattern map
 - [ ] ... more soon!
 
-## 🌐 Platforms Covered
+## 🌐 Platforms
 
 - [Codeforces](https://codeforces.com/)
 - [LeetCode](https://leetcode.com/)
+
+## ⚠️ Disclaimer
+
+This repo contains my personal notes and solutions for educational purposes only. Problem links point to their original platforms. All problem statements belong to their respective owners.
