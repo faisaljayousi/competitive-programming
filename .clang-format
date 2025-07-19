@@ -1,0 +1,27 @@
+BasedOnStyle: Google
+Language: Cpp
+
+IndentWidth: 4
+UseTab: Never
+TabWidth: 4
+ColumnLimit: 100
+
+PointerAlignment: Left
+DerivePointerAlignment: false
+
+BreakBeforeBraces: Allman   # Braces always on new line
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+
+SpaceBeforeParens: ControlStatements
+SpaceInEmptyParentheses: false
+SpacesInSquareBrackets: false
+
+AccessModifierOffset: -4
+ConstructorInitializerIndentWidth: 4
+
+PenaltyBreakAssignment: 100 # Prefer breaking before `=` in long assignments
+PenaltyBreakTemplateDeclaration: 10 # Favor splitting template declarations
+
+SortIncludes: CaseSensitive
+IncludeBlocks: Regroup
