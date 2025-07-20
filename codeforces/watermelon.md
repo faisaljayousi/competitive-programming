@@ -18,4 +18,3 @@ Pete and Billy are great fans of even numbers, that's why they want to divide th
 > Output: Print YES, if the boys can divide the watermelon into two parts, each of them weighing even number of kilos; and NO in the opposite case.
 
 ---
-
