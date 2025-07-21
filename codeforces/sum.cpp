@@ -15,11 +15,13 @@ int main()
 
         if (std::abs(a - b) == c || a + b == c)
         {
-            std::cout << "Yes" << "\n";
+            std::cout << "Yes"
+                      << "\n";
         }
         else
         {
-            std::cout << "No" << "\n";
+            std::cout << "No"
+                      << "\n";
         }
     }
 
