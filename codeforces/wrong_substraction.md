@@ -1,4 +1,4 @@
-# 🧩 Problem: Watermelon
+# 🧩 Problem: Wrong Substraction
 
 **Platform**: Codeforces \
 **Link**: [Problem Link](https://codeforces.com/problemset/problem/977/A) \

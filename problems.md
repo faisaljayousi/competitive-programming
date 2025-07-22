@@ -10,35 +10,32 @@
 | 6 | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | Codeforces | 800 | ``greedy``, ``dp`` | – | [💻](./codeforces/hit_lottery.cpp) | [📝](./codeforces/hit_lottery.md) |
 | 7 | [Sum](https://codeforces.com/problemset/problem/1742/A) | Codeforces | 800 | ``implementation`` | – | [💻](./codeforces/sum.cpp) | [📝](./codeforces/sum.md) |
 | 8 | [Team](https://codeforces.com/problemset/problem/231/A) | Codeforces | 800 | ``brute force``, ``greedy`` | – | [💻](./codeforces/team.cpp) | [📝](./codeforces/team.md) |
-| 9 | [Ultra-fast Mathematician](https://codeforces.com/problemset/problem/61/A) | Codeforces | 800 | ``implementation`` | – | [💻](./codeforces/ultrafast_mathematician.cpp) | [📝](./codeforces/ultrafast_mathematician.md) |
-| 10 | [Unknown](#) | Codeforces | Unknown | – | – | [💻](./codeforces/make_it_beautiful.cpp) | [📝](./codeforces/make_it_beautiful.md) |
-| 11 | [Vanya and Cubes](https://codeforces.com/problemset/problem/492/A) | Codeforces | 800 | ``implementation`` | – | [💻](./codeforces/vanya_cubes.cpp) | [📝](./codeforces/vanya_cubes.md) |
-| 12 | [Watermelon](https://codeforces.com/problemset/problem/4/A) | Codeforces | 800 | ``brute force``, ``math`` | – | [💻](./codeforces/watermelon.cpp) | [📝](./codeforces/watermelon.md) |
-| 13 | [Watermelon](https://codeforces.com/problemset/problem/977/A) | Codeforces | 800 | ``implementation`` | – | [💻](./codeforces/wrong_substraction.cpp) | [📝](./codeforces/wrong_substraction.md) |
+| 9 | [Vanya and Cubes](https://codeforces.com/problemset/problem/492/A) | Codeforces | 800 | ``implementation`` | – | [💻](./codeforces/vanya_cubes.cpp) | [📝](./codeforces/vanya_cubes.md) |
+| 10 | [Watermelon](https://codeforces.com/problemset/problem/4/A) | Codeforces | 800 | ``brute force``, ``math`` | – | [💻](./codeforces/watermelon.cpp) | [📝](./codeforces/watermelon.md) |
+| 11 | [Wrong Substraction](https://codeforces.com/problemset/problem/977/A) | Codeforces | 800 | ``implementation`` | – | [💻](./codeforces/wrong_substraction.cpp) | [📝](./codeforces/wrong_substraction.md) |
 
 ---
 
 ## 📊 Summary Statistics
 
-**Total problems solved**: 13
+**Total problems solved**: 11
 
 ### By Platform:
 - LeetCode: 2
-- Codeforces: 11
+- Codeforces: 9
 
 ### By Difficulty:
 - Easy: 1
 - Medium: 1
-- 800: 10
-- Unknown: 1
+- 800: 9
 
 ### By Language:
 - Python: 2
-- C++: 13
+- C++: 11
 
 ### By Tag:
-- ``implementation``: 5
 - ``greedy``: 4
+- ``implementation``: 4
 - ``math``: 3
 - ``dp``: 2
 - ``brute force``: 2

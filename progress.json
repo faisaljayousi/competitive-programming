@@ -1,16 +1,17 @@
 {
   "platform": {
     "LeetCode": 2,
-    "Codeforces": 9
+    "Codeforces": 11
   },
   "difficulty": {
     "Easy": 1,
     "Medium": 1,
-    "800": 9
+    "800": 10,
+    "Unknown": 1
   },
   "language": {
     "Python": 2,
-    "C++": 11
+    "C++": 13
   },
   "tags": {
     "`hashmap`": 1,
@@ -20,8 +21,8 @@
     "`greedy`": 4,
     "`math`": 3,
     "`brute force`": 2,
-    "`implementation`": 4
+    "`implementation`": 5
   },
   "ratings": {},
-  "total": 11
+  "total": 13
 }
